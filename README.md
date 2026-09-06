@@ -100,8 +100,11 @@ Software Engineer with **4+ years** of experience building production-grade web 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somnath-maity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somnath-maity&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Somnath-maity&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Somnath-maity&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
 </p>
 
 <p align="center">
