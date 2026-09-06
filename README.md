@@ -1,12 +1,13 @@
 <h1 align="center">Hey there, I'm Somnath Maity <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> &bull; <b>AI Integration Engineer</b>
+  <b>Software Engineer</b> &bull; <b>AI Integration Engineer</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/somnathmaityik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:somnathmaityatwork@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://x.com/SomnathmaityIK"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
   <a href="https://github.com/Somnath-maity"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -14,11 +15,11 @@
 
 ### About Me
 
-Full Stack Developer with **4+ years** of experience building production-grade web applications and AI-integrated systems. Experienced across the full stack — from responsive React UIs to backend RAG pipelines with vector search, custom OCR, and LLM integration via Portkey.
+Software Engineer with **4+ years** of experience building production-grade web applications and AI-integrated systems along with building robust frameworks for automation testing of both UI & API on multiple web/mobile applications. Experienced across the full stack — from responsive React UIs to backend RAG pipelines with vector search, custom OCR, and LLM integration via Portkey, along with functional & performance testing that includes UI automation, API Automation & testing distributed systems(Load Testing).
 
 - Building intelligent, user-facing applications that blend clean UI with AI backends
-- Passionate about component architecture, performance optimization, and shipping fast
-- Currently exploring **Agentic AI orchestration** and **LLMOps**
+- Passionate about architecture, performance optimization and finding bottlenecks that breaks application in runtime.
+- Currently exploring **Agentic AI orchestration** and **LLMOps** for integrating it into the workflow.
 
 ---
 
@@ -42,6 +43,13 @@ Full Stack Developer with **4+ years** of experience building production-grade w
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=api&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/Pg--Vector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **AI / ML**
 
@@ -51,6 +59,8 @@ Full Stack Developer with **4+ years** of experience building production-grade w
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-4285F4?style=flat-square&logoColor=white)
 ![Portkey AI](https://img.shields.io/badge/Portkey_AI-6366F1?style=flat-square&logoColor=white)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-10A37F?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP_Servers-0EA5E9?style=flat-square&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -65,6 +75,11 @@ Full Stack Developer with **4+ years** of experience building production-grade w
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST--Assured-4EA94B?style=flat-square&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
 ---
 
